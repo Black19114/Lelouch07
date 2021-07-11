@@ -1,13 +1,27 @@
 # Lelouch07
 ■ apt update && apt upgrade
+
+
 ■ apt install python2 
+
+
 ■ pip2 install lolcat 
-■ pip2 install mechanize  
-■ pip2 install requests bs4  
+
+
+■ pip2 install mechanize 
+
+ 
+■ pip2 install requests bs4
+
+  
 ■ apt install git  
+
+
 ■ git clone https://github.com/Black19114/Lelouch07
 
 ■ Run script
 
 ■ cd Lelouch07 
+
+
 ■ python2 Lelouch007.py
